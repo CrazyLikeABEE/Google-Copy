@@ -1,2 +1,2 @@
 # Google-Copy
-website: https://crazylikeabee.github.io/Google-Copy/myPhishingSite.html
+website: https://crazylikeabee.github.io/Google-Copy/myFirstPhishingSite.html
